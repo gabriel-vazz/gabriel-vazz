@@ -8,7 +8,7 @@
 # Conhecimento:
 ### Java e Python
 ### Estudo programação a apenas 6 meses
-### Ainda não pussuo conhecimento avançado das linguagens
+### Ainda não possuo conhecimento avançado das linguagens
 
 # Hobbies:
 ### Gosto de fazer e tocar músicas
