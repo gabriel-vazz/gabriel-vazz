@@ -1,16 +1,16 @@
-# Apresentação:
+Apresentação:
 ### Nome: Gabriel Vaz Lima
 ### Curso: Técnico Informática SATC (Fase 2/4)
 ### Idade: 15
 ### Onde moro: Criciúma, SC
 ### Escola: Segundo Ano do Ensino Médio
 
-# Conhecimento:
+Conhecimento:
 ### Java e Python
 ### Estudo programação a apenas 6 meses
 ### Ainda não pussuo conhecimento avançado das linguagens
 
-# Hobbies:
+Hobbies:
 ### Gosto de fazer e tocar músicas
 ### e jogar jogos antigos
 
