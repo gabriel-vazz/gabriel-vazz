@@ -3,7 +3,7 @@
 ### Curso: Técnico Informática SATC (Fase 2/4)
 ### Idade: 15
 ### Onde moro: Criciúma, SC
-### Escola: Segundo Ano do Ensimo Médio
+### Escola: Segundo Ano do Ensino Médio
 
 # Conhecimento:
 ### Java e Python
