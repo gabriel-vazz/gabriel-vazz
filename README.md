@@ -1,4 +1,18 @@
-### Hi there 👋
+# Apresentação:
+### Nome: Gabriel Vaz Lima
+### Curso: Técnico Informática SATC (Fase 2/4)
+### Idade: 15
+### Onde moro: Criciúma, SC
+### Escola: Segundo Ano do Ensimo Médio
+
+# Conhecimento:
+### Java e Python
+### Estudo programação a apenas 6 meses
+### Ainda não pussuo conhecimento avançado das linguagens
+
+# Hobbies:
+### Gosto de fazer e tocar músicas
+### e jogar jogos antigos
 
 <!--
 **gabriel-vazz/gabriel-vazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
